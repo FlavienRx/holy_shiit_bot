@@ -3,12 +3,15 @@ abacus
 abbey
 abdomen
 ability
+abolishment
 abroad
 abuse
 accelerant
+accelerator
 access
 accident
 accommodation
+accompanist
 accordion
 account
 accountant
@@ -38,6 +41,7 @@ advance
 advancement
 advantage
 advertisement
+advertising
 advice
 affair
 affect
@@ -83,6 +87,7 @@ alpenglow
 alpenhorn
 alpha
 alphabet
+alternative
 altitude
 alto
 aluminium
@@ -140,6 +145,8 @@ applause
 apple
 applewood
 appliance
+application
+appointment
 approval
 apron
 apse
@@ -201,6 +208,7 @@ attack
 attempt
 attendant
 attention
+attenuation
 attic
 attitude
 attorney
@@ -267,6 +275,7 @@ baobab
 bar
 barbeque
 barber
+barbiturate
 barge
 baritone
 barium
@@ -338,11 +347,13 @@ belly
 belt
 bench
 bend
+beneficiary
 benefit
 bengal
 beret
 berry
 bestseller
+best-seller
 bet
 beverage
 beyond
@@ -558,6 +569,7 @@ cafe
 caftan
 cake
 calcification
+calculation
 calculator
 calculus
 calendar
@@ -638,15 +650,18 @@ catacomb
 catamaran
 catch
 category
+caterpillar
 cathedral
 catsup
 cattle
+cauliflower
 cause
 caution
 cave
 c-clamp
 cd
 ceiling
+celebration
 celeriac
 celery
 celeste
@@ -755,6 +770,7 @@ circle
 circulation
 circumference
 cirrus
+citizenship
 city
 civilisation
 claim
@@ -816,10 +832,12 @@ cod
 code
 codon
 codpiece
+coevolution
 coffee
 coffin
 coil
 coin
+coinsurance
 coke
 cold
 coliseum
@@ -850,21 +868,26 @@ commercial
 commission
 committee
 common
+communicant
 communication
 community
 company
 comparison
 compassion
+competition
 competitor
 complaint
 complement
 complex
 component
+comportment
 composer
+composition
 compost
 comprehension
 compulsion
 computer
+comradeship
 concentrate
 concept
 concern
@@ -872,6 +895,7 @@ concert
 conclusion
 concrete
 condition
+condominium
 condor
 conductor
 cone
@@ -884,14 +908,17 @@ confusion
 conga
 congo
 congress
+congressman
 congressperson
 conifer
 connection
 consent
+consequence
 consideration
 consist
 console
 consonant
+conspirator
 constant
 constellation
 construction
@@ -1096,6 +1123,7 @@ decade
 decimal
 decision
 deck
+declination
 decongestant
 decrease
 decryption
@@ -1128,6 +1156,7 @@ depth
 deputy
 derby
 derrick
+description
 desert
 design
 designer
@@ -1136,6 +1165,7 @@ desk
 dessert
 destiny
 destroyer
+destruction
 detail
 detainment
 detective
@@ -1188,6 +1218,7 @@ disco
 disconnection
 discount
 discovery
+discrepancy
 discussion
 disease
 disembodiment
@@ -1202,6 +1233,7 @@ display
 disposer
 distance
 distribution
+distributor
 district
 divan
 diver
@@ -1353,14 +1385,17 @@ employ
 employee
 employer
 employment
+empowerment
 emu
 encirclement
 encyclopedia
 end
+endothelium
 enemy
 energy
 engine
 engineer
+engineering
 enigma
 enjoyment
 enquiry
@@ -1368,6 +1403,7 @@ entertainment
 enthusiasm
 entrance
 entry
+environment
 envy
 epauliere
 epee
@@ -1407,10 +1443,12 @@ evidence
 evocation
 evolution
 exam
+examination
 examiner
 example
 exchange
 excitement
+exclamation
 excuse
 executor
 exercise
@@ -1423,6 +1461,7 @@ expansion
 expansionism
 experience
 expert
+explanation
 exposition
 expression
 extension
@@ -1457,6 +1496,7 @@ fairies
 fairy
 faith
 fall
+falling-out
 fame
 familiar
 family
@@ -1633,7 +1673,9 @@ front
 frost
 frown
 fruit
+frustration
 fuel
+fulfillment
 full
 fun
 function
@@ -1807,6 +1849,7 @@ guy
 gym
 gymnast
 gymnastics
+gynaecology
 gyro
 habit
 hacienda
@@ -1849,6 +1892,7 @@ harmonica
 harmony
 harp
 harpooner
+harpsichord
 hassock
 hat
 hatbox
@@ -1869,6 +1913,7 @@ heart
 heartache
 hearth
 hearthside
+heart-throb
 heartwood
 heat
 heater
@@ -1978,7 +2023,9 @@ hydrofoil
 hydrogen
 hyena
 hygienic
+hyphenation
 hypochondria
+hypothermia
 ice
 icebreaker
 icecream
@@ -1992,6 +2039,7 @@ igloo
 ikebana
 illegal
 image
+imagination
 impact
 implement
 importance
@@ -2008,6 +2056,7 @@ incident
 income
 increase
 independence
+independent
 index
 indication
 indigence
@@ -2018,6 +2067,7 @@ infancy
 inflammation
 inflation
 influence
+information
 infusion
 inglenook
 ingrate
@@ -2035,12 +2085,14 @@ innocence
 innocent
 input
 inquiry
+inscription
 insect
 inside
 insolence
 inspection
 inspector
 instance
+instruction
 instrument
 instrumentalist
 instrumentation
@@ -2050,6 +2102,7 @@ insurgence
 intelligence
 intention
 interaction
+interactive
 interest
 interferometer
 interior
@@ -2057,6 +2110,7 @@ interloper
 internal
 international
 internet
+interpreter
 intervenor
 interview
 interviewer
@@ -2069,6 +2123,7 @@ inventory
 investment
 invite
 invoice
+iridescence
 iris
 iron
 ironclad
@@ -2139,6 +2194,7 @@ kettle
 kettledrum
 key
 keyboard
+keyboarding
 keystone
 kick
 kick-off
@@ -2180,6 +2236,7 @@ laborer
 labour
 lace
 lack
+lacquerware
 ladder
 lady
 ladybug
@@ -2347,6 +2404,7 @@ mail
 mailbox
 mailman
 main
+maintenance
 major
 major-league
 make
@@ -2399,6 +2457,7 @@ mask
 mass
 massage
 master
+mastication
 mastoid
 mat
 match
@@ -2417,6 +2476,7 @@ meal
 meaning
 measles
 measure
+measurement
 meat
 mechanic
 media
@@ -2439,6 +2499,7 @@ message
 metal
 metallurgist
 meteor
+meteorology
 meter
 methane
 method
@@ -2463,6 +2524,7 @@ milk
 milkshake
 millennium
 millimeter
+millisecond
 mime
 mimosa
 mind
@@ -2478,6 +2540,7 @@ minor-league
 mint
 minute
 mirror
+miscarriage
 miscommunication
 misfit
 misogyny
@@ -2505,6 +2568,7 @@ mole
 mom
 moment
 monastery
+monasticism
 money
 monger
 monitor
@@ -2584,6 +2648,7 @@ need
 needle
 negative
 negligee
+negotiation
 neologism
 neon
 nephew
@@ -2609,11 +2674,13 @@ niece
 night
 nightclub
 nightgown
+nightingale
 nightlight
 nitrogen
 nobody
 node
 noise
+nonbeliever
 nonconformist
 nondisclosure
 nonsense
@@ -2634,6 +2701,7 @@ nudge
 number
 numeracy
 numeric
+numismatist
 nurse
 nursery
 nurture
@@ -2651,6 +2719,8 @@ object
 objective
 obligation
 oboe
+observation
+observatory
 occasion
 occupation
 ocean
@@ -2686,6 +2756,7 @@ opinion
 opium
 opossum
 opportunist
+opportunity
 opposite
 option
 orange
@@ -2767,6 +2838,7 @@ panpipe
 pansy
 panther
 panties
+pantologist
 pantology
 pantry
 pants
@@ -2791,6 +2863,7 @@ parking
 parrot
 parsnip
 part
+participant
 particle
 particular
 partner
@@ -2806,6 +2879,7 @@ past
 pasta
 paste
 pastor
+pastoralist
 pastry
 patch
 path
@@ -2857,6 +2931,7 @@ pepper
 percentage
 perception
 perch
+performance
 perfume
 period
 periodical
@@ -2868,6 +2943,7 @@ perp
 person
 personal
 personality
+perspective
 pest
 pet
 petal
@@ -3105,6 +3181,7 @@ pulley
 puma
 pump
 pumpkin
+pumpkinseed
 punch
 punctuation
 punishment
@@ -3211,6 +3288,7 @@ recruit
 rectangle
 red
 redesign
+rediscovery
 reduction
 reef
 refectory
@@ -3232,6 +3310,7 @@ relationship
 relative
 relaxation
 release
+reliability
 relief
 religion
 relish
@@ -3243,6 +3322,7 @@ repair
 reparation
 repeat
 replace
+replacement
 replication
 reply
 report
@@ -3314,6 +3394,7 @@ robin
 rock
 rocker
 rocket
+rocket-ship
 rod
 role
 roll
@@ -3443,6 +3524,7 @@ season
 seat
 second
 secret
+secretariat
 secretary
 section
 sectional
@@ -3759,6 +3841,7 @@ stay
 steak
 steal
 steam
+steamroller
 steel
 steeple
 stem
@@ -3768,11 +3851,14 @@ step-aunt
 step-brother
 stepdaughter
 step-daughter
+step-father
 step-grandfather
 step-grandmother
 stepmother
+step-mother
 stepping-stone
 steps
+step-sister
 stepson
 step-son
 step-uncle
@@ -3862,6 +3948,7 @@ sunglasses
 sunlamp
 sunroom
 sunshine
+supermarket
 supply
 support
 supporter
@@ -3994,6 +4081,7 @@ theme
 theory
 therapist
 thermals
+thermometer
 thigh
 thing
 thinking
@@ -4011,6 +4099,8 @@ throne
 thrush
 thumb
 thunder
+thunderbolt
+thunderhead
 thunderstorm
 tiara
 tic
@@ -4101,6 +4191,7 @@ trainer
 training
 tram
 tramp
+transaction
 transition
 translation
 transmission
@@ -4183,6 +4274,7 @@ umbrella
 unblinking
 uncle
 underclothes
+underground
 underneath
 underpants
 underpass
