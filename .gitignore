@@ -1,0 +1,10 @@
+# Python
+__pycache__
+tmp
+*.log
+*.log
+*.pot
+*.pycs
+*~
+conf.py
+image_out.png
