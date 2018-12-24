@@ -1,8 +1,7 @@
-import sys
-import conf
 import random
 import tweepy
 
+from conf import *
 from holy_shiit_bot_module import average_size_by_char
 from PIL import Image
 from PIL import ImageFont
@@ -49,14 +48,16 @@ font = ImageFont.truetype("Cees Hand Regular.ttf", 70)
 # Draw the sentences over the image
 draw.text((1170, 15),"Holy shit,",(0,0,0),font=font)
 draw.text((center, 80),sentence,(0,0,0),font=font)
-draw.text((1170, 135),"is on fire",(0,0,0),font=font)
+draw.text((1170, 135),"is on fire !",(0,0,0),font=font)
 # Save the new image
 im.save("image_out.png")
 
 # TWEET
 # Tweet authentification
-auth = tweepy.OAuthHandler(conf.API_key, conf.API_secret_key)
-auth.set_access_token(conf.Access_token, conf.Access_token_secret)
+auth = tweepy.OAuthHandler(API_key, API_secret_key)
+auth.set_access_token(Access_token, Access_token_secret)
 api = tweepy.API(auth)
+# Create the status
+status = "Holy shit, {} is on fire !".format(sentence)
 # Tweet the fun
-api.update_with_media("image_out.png", status="Holy shit, " + sentence + " is on fire")
+api.update_with_media("image_out.png", status=status)
