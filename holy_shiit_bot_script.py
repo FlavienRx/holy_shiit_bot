@@ -30,7 +30,7 @@ while True:
     fo.truncate()
 
     # If the word fit in the bubble space, end loop
-    if len(word) < 12 and len(word) >= 11:
+    if len(word) < 12:
         break
 
 # Close the file
