@@ -6,5 +6,10 @@ tmp
 *.pot
 *.pycs
 *~
+
+# Vscode
+.vscode
+
+# Other
 conf.py
 image_out.png
